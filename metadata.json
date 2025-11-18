@@ -1,0 +1,7 @@
+{
+  "name": "AI Reasoning Agent",
+  "description": "An AI agent that uses images from your camera or file uploads to answer reasoning and multiple-choice questions (MCQs) with the power of Gemini.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
